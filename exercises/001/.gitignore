@@ -2,3 +2,4 @@
 build_cpu/
 build_gpu/
 deps/
+ktune_cache.dat
