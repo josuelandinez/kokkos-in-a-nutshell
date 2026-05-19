@@ -1,1 +1,14 @@
 *~
+# Compiled binaries and build caches
+build_cpu/
+build_gpu/
+
+# Third-party downloaded source code
+deps/
+
+# KTune hardware-specific cache 
+ktune_cache.dat
+
+# Hidden solution files 
+halo_exchange_subview.cpp
+halo_ktune.cpp
