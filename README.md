@@ -12,6 +12,9 @@ Before diving into the code provided here, it is highly recommended that you fam
 * [Kokkos Tutorials (GitHub Repository)](https://github.com/kokkos/kokkos-tutorials)
 * [Kokkos Video Lectures](https://kokkos.org/kokkos-core-wiki/tutorials-and-examples/video-lectures.html)
 
+For brevity given the vast amount of documentation and resoucers use this slides:
+* [Kokkos Intro Short](https://github.com/kokkos/kokkos-tutorials/tree/icpp/Intro-Short)
+
 ## Compiling and Running
 
 Each exercise directory contains standalone CMake builds and helper scripts. 
