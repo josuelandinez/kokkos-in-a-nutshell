@@ -2,7 +2,7 @@
 
 This repository provides a compact, practical, and hands-on tutorial for learning **Kokkos**, the C++ performance portability programming ecosystem.
 
-The goal of this project is to bridge the gap between basic parallel syntax and real-world high-performance computing (HPC). It demonstrates how to write single-source C++ code that respects the physical hardware limits of both modern multi-core (and hybrid) CPUs and high-throughput GPUs.
+The goal of this project is to bring hands on examples to work with kokkos in practice. It demonstrates how to write single-source C++ code that respects the physical hardware limits of both modern multi-core (and hybrid) CPUs and high-throughput GPUs.
 
 ## Recommended Learning Path
 
