@@ -21,7 +21,7 @@ FetchContent_MakeAvailable(Kokkos)
 # Fetch KTune
 FetchContent_Declare(
   KTune
-  GIT_REPOSITORY https://oauth2:6j9KNoa_H1t1LAXHFtT-Qm86MQp1OjRxMQk.01.0z1dc8yap@gitlab.jsc.fz-juelich.de/numeriqs-b2/ktune.git
+  GIT_REPOSITORY https://gitlab.jsc.fz-juelich.de/numeriqs-b2/ktune.git
   GIT_TAG main
 )
 FetchContent_MakeAvailable(KTune)
